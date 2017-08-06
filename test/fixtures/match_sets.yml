@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_id: 1
+  set_number: 1
+  hosting_team_score: 1
+  guest_team_score: 1
+
+two:
+  match_id: 1
+  set_number: 1
+  hosting_team_score: 1
+  guest_team_score: 1

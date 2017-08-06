@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2017-08-05 17:22:02
+  hosting_team_id: 1
+  guest_team_id: 1
+  court_id: 1
+  hosting_team_score: 1
+  guest_team_score: 1
+
+two:
+  time: 2017-08-05 17:22:02
+  hosting_team_id: 1
+  guest_team_id: 1
+  court_id: 1
+  hosting_team_score: 1
+  guest_team_score: 1

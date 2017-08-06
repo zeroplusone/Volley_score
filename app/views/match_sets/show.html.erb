@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Match:</strong>
+  <%= @match_set.match_id %>
+</p>
+
+<p>
+  <strong>Set number:</strong>
+  <%= @match_set.set_number %>
+</p>
+
+<p>
+  <strong>Hosting team score:</strong>
+  <%= @match_set.hosting_team_score %>
+</p>
+
+<p>
+  <strong>Guest team score:</strong>
+  <%= @match_set.guest_team_score %>
+</p>
+
+<%= link_to 'Edit', edit_match_set_path(@match_set) %> |
+<%= link_to 'Back', match_sets_path %>
